@@ -1,4 +1,4 @@
 nginx
 #支持私库
-0001coder/chatollama:latest
+ghcr.io/sugarforever/peanut-shell:latest
 
