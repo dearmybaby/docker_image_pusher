@@ -1,1 +1,1 @@
-flowise
+exdatic/flowise:24.9.2
