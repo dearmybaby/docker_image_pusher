@@ -1,1 +1,1 @@
-debian:bullseye-slim
+metabase/metabase:latest
